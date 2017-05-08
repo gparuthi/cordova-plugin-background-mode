@@ -382,8 +382,8 @@ exports._isActive = false;
  * Default values of all available options.
  */
 exports._defaults = {
-    title:   'App is running in background',
-    text:    'Doing heavy tasks.',
+    title:   'HEED',
+    text:    'App is alive.',
     bigText: false,
     resume:  true,
     silent:  false,
